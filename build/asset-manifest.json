@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/empoyess/static/css/main.6deb9382.css",
+    "main.js": "/empoyess/static/js/main.ffa6e086.js",
+    "index.html": "/empoyess/index.html",
+    "main.6deb9382.css.map": "/empoyess/static/css/main.6deb9382.css.map",
+    "main.ffa6e086.js.map": "/empoyess/static/js/main.ffa6e086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6deb9382.css",
+    "static/js/main.ffa6e086.js"
+  ]
+}

@@ -1,0 +1,24 @@
+// Обнуляющий стиль страницы
+@import "nullstyle.scss";
+
+body {
+  background-color: #ffffff;
+  font-size: 16px;
+  font-family: "OpenSans", sans-serif;
+}
+.wrapper {
+  min-height: 100%;
+  min-width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  max-width: 1600px;
+  padding: 0 13px;
+  margin: 0 auto;
+}
+.main {
+  position: relative;
+  flex: 1 1 auto;
+}
